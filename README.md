@@ -26,7 +26,9 @@ Um projeto de vídeo curto e envolvente que explora o impacto transformador dos 
 
 ## 🤖 Tecnologias Utilizadas
 Wellsaid - Voz
+
 Lumen5 - Edição e criação do vídeo
+
 ChatGPT - Prompts
 
 ## 🧐 Processo de Criação
